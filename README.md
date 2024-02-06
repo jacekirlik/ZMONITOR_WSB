@@ -43,4 +43,4 @@ Navigating the application has been designed on 3 screens. Depending on the scre
         -	Delivery items as an ALV list
 
 > [!NOTE]
-> More details you can find as well on atached PDF documentation: **“Order and delivery monitor - Documentation (PL)”**. Aavailable in Polish. 
+> More details you can find as well on atached PDF documentation: **“Monitor_Documentation_PL”**. Aavailable in Polish. 
