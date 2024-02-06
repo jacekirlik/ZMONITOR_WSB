@@ -8,6 +8,9 @@ The goal of the project was to create an intuitive and easy-to-use dialog applic
 -	Delivery
 -	Sales Invoice.
 
+
+![Screenshot from application](https://github.com/jacekirlik/ZMONITOR_WSB/blob/895483de3a55a229485f12145e28a51b5daad21e/screenshot.png)
+
 ## II. Functionalities
 Navigating the application has been designed on 3 screens. Depending on the screen the user is on, the following functionalities have been implemented in the application. 
 
