@@ -46,4 +46,4 @@ Navigating the application has been designed on 3 screens. Depending on the scre
         -	Delivery items as an ALV list
 
 > [!NOTE]
-> More details you can find on atached PDF documentation: [Monitor_Documentation_PL.pdf](https://github.com/jacekirlik/ZMONITOR_WSB/blob/eaf9f705030d471d5016601f85e800f6ebee4176/Monitor_Documentation_PL.pdf). Aavailable in Polish. 
+> More details you can find on atached PDF documentation: [Monitor_Documentation_PL.pdf](https://github.com/jacekirlik/ZMONITOR_WSB/blob/eaf9f705030d471d5016601f85e800f6ebee4176/Monitor_Documentation_PL.pdf). Aavailable in Polish :poland:. 
